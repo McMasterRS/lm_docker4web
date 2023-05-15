@@ -25,6 +25,7 @@ Note that the `create` command creates the container but does not actually start
 5. Modify the container to display a custom index page:  
     1. Create an `index.html` file on your machine using the editor of your choice.  
     2. Paste the following HTML code into the `index.html` file.  
+
     ```html
     <html>
     <head>
@@ -34,6 +35,7 @@ Note that the `create` command creates the container but does not actually start
     <h1>Hello World!</h1>
     </body>
     ```
+
     3. Use the `docker cp` command to copy the file over to the running `nginx_base` container:  
     `docker cp index.html nginx_base:/usr/share/nginx/html/index.html`
     4. Reload your browser and you should presented with a new updated "Hello, World" page you just created!  
