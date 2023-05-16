@@ -2,7 +2,7 @@
 layout: default
 title: Hello World
 parent: Part 1 - Docker
-nav_order: 1
+nav_order: 2
 ---
 
 ## Running Your First Container

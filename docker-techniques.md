@@ -2,7 +2,7 @@
 layout: default
 title: General Docker Techniques
 parent: Part 1 - Docker
-nav_order: 2
+nav_order: 3
 ---
 
 ## General Docker Techniques
