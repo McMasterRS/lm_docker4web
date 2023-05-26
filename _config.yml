@@ -3,9 +3,9 @@ github_repo_url: "https://mcmasterrs.github.io/docker-tutorial" # ***Enter works
 gh_edit_repository: "https://github.com/McMasterRS/docker-tutorial" #*** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Workshop - Docker Tutorial"
-favicon_ico: ""
-nav_footer_logo_bottom: "https://raw.githubusercontent.com/scds/jtd-mcmaster/main/assets/images/scds-logo.png"
-nav_footer_logo_bottom_href: "https://scds.ca/"
+favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
+nav_footer_logo_bottom: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/logo.png"
+nav_footer_logo_bottom_href: "https://research.mcmaster.ca/home/support-for-researchers/research-resources/research-software-development/"
 nav_footer_logo_top: ""
 nav_footer_logo_top_href: ""
 
@@ -22,7 +22,6 @@ color_scheme: mcmaster
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page.
-#
 # Supports true (default) or false
 heading_anchors: true
 
