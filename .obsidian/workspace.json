@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2630d244df25583d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7604fd6dc0ee799",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988c749504948b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62356fdee2a75239",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b949182f0bf329",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "456bb55339135497",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9eb5497057813469",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf9ebaa11803c5a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb77d1e00c6632ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb94a8edfa9b1ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abdbf987a1256e3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65a9b49563e8d4f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cae58344c29dd0b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81ad75e0ddb0ee4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "988c749504948b43",
+  "lastOpenFiles": [
+    "index.md",
+    "land-acknowledgement.md",
+    "docker-techniques.md",
+    "example-1.md",
+    "example-2.md",
+    "conclusion.md",
+    "part-1.md",
+    "installation.md",
+    "first-container.md",
+    "part-2.md"
+  ]
+}
