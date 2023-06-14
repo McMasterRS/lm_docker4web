@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "conclusion.md"
               }
             }
           }
@@ -148,15 +148,23 @@
   },
   "active": "988c749504948b43",
   "lastOpenFiles": [
-    "index.md",
+    "part-2.md",
+    "conclusion.md",
+    "example-2.md",
     "land-acknowledgement.md",
+    "index.md",
+    "installation.md",
+    "assets/img/docker-logo.png",
+    "assets/img/docker-logo.png.crdownload",
+    "assets/img/horizontal-logo-monochromatic-white.png",
+    "assets/img/horizontal-logo-monochromatic-white.png.crdownload",
+    "assets/img/apptainer-logo.png",
+    "assets/img/apptainer-logo.png.crdownload",
+    "containers-orchestration.md",
+    "README.md",
     "docker-techniques.md",
     "example-1.md",
-    "example-2.md",
-    "conclusion.md",
     "part-1.md",
-    "installation.md",
-    "first-container.md",
-    "part-2.md"
+    "first-container.md"
   ]
 }
