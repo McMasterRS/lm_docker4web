@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-## Docker Tutorial
+## Docker Basic for Web Development
 
 ![docker-logo](assets/img/docker-logo.png)_Image retrieved from [howtogeek.com](https://www.howtogeek.com/733522/docker-for-beginners-everything-you-need-to-know/)_
 

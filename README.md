@@ -1,8 +1,8 @@
-# Docker Tutorial
+# Docker Basic for Web Development
 
-Materials for the McMaster Research Software workshop: **Docker Tutorial**  
+Materials for the McMaster Research Software learning module: **Docker Basic for Web Development**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://mcmasterrs.github.io/docker-tutorial) with GitHub Pages.  
+This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/docker4web) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Workshop content created by Elias Eid, Kelvin Lee 
