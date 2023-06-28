@@ -26,6 +26,8 @@ We recommend the following resources if you want to learn more about Docker:
 - [Official Docker Documentation](https://docs.docker.com/)
 - [A Docker Tutorial for Beginners](https://docker-curriculum.com/)
 
+If you require additional help setting up Docker or if you want to Dockerize a type of application that has not been covered in this learning module, please feel free to book a consultation with the Research Software Development team by emailing [rsd@mcmaster.ca](mailto:rsd@mcmaster.ca).
+
 ## Alternatives
 
 Docker is one of the most popular containerization platforms, but it is not the only one. There are multiple other platforms that you can use to create and run containers.
