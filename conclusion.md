@@ -6,7 +6,7 @@ nav_order: 5
 
 # Conclusion
 
-Throughout this workshop, we learned the basics of using Docker. You learned the several Docker commands that allow you to:
+Throughout this learning module, we learned the basics of using Docker. You learned the several Docker commands that allow you to:
 - Publish a port
 - Run a container in a detached mode
 - List running containers
@@ -20,7 +20,7 @@ Throughout this workshop, we learned the basics of using Docker. You learned the
 
 You also learned how to use Docker Compose to perform container orchestration and simplify the container creation and running processes. We covered creating and running docker images as well as using Docker Compose to create development and production Docker images.
 
-While we only scratched the surface of what you can do with Docker, we hope that this workshop provided you with the basic knowledge needed to get started with Docker containers. 
+While we only scratched the surface of what you can do with Docker, we hope that this learning module provided you with the basic knowledge needed to get started with Docker containers. 
 
 We recommend the following resources if you want to learn more about Docker:
 - [Official Docker Documentation](https://docs.docker.com/)
@@ -46,3 +46,17 @@ If you are interested in learning more about Apptainer, we recommend consulting 
 - [Computer Ontario Summer School - Apptainer Recording](https://mcmasteru365.sharepoint.com/:v:/r/sites/Daves-RSDTeam/Shared%20Documents/RSD%20Team/General/Workshops/apptainer-recording.mp4?csf=1&web=1&e=HUBNGj)
 - [Apptainer Documentation (alliancecan.ca)](https://docs.alliancecan.ca/wiki/Apptainer)
 - [Official Apptainer Documentation](http://apptainer.org/docs/)
+
+## Complementary Software 
+
+### Kubernetes
+
+![kubernetes-logo](assets/img/kubernetes-logo.png)
+
+Kubernetes, or k8s, is an open source platform that automates Linux container operations. Kubernetes is often used to automate the processes involved in deploying and scaling containerized applications. Kubernetes allows users to cluster groups of hosts running Linux containers in addition to helping them easily and efficiently manage those clusters.
+
+Kubernetes assesses the available compute resources and the resource requirements of each container to organize and schedule running these containers on virtual machines. Kubernetes allows users to group containers into pods, which are the basic operational unit for Kubernetes.
+
+Kubernetes also monitors the running environment and compares it against the desired state. It performs automated health checks on services and restarts containers that have failed or stopped. Kubernetes only makes services available when they are running and ready.
+
+Kubernetes is not an alternative to Docker given that it cannot create containers on its own, but it can be used in conjunction with Docker or other containerization platforms to automate container operations, manage infrastructure resources and perform automated health check on running services.

@@ -47,7 +47,7 @@ To stop a container running in detached mode, use the stop command:
 docker container stop <container identifier>
 ```
 
-The `<container identifier>` in the previous command and in all future commands shown in this workshop can be the container ID or container name. We'll go over more about naming containers in the next section.  
+The `<container identifier>` in the previous command and in all future commands shown in this learning module can be the container ID or container name. We'll go over more about naming containers in the next section.  
 
 ### Naming Containers
 
