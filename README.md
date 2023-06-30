@@ -2,7 +2,7 @@
 
 Materials for the McMaster Research Software learning module: **Docker Basics for Web Development**  
 
-This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/docker4web) with GitHub Pages.  
+This repository contains learning module files, as well as files used to create the [learning module webpage](https://mcmasterrs.github.io/lm_docker4web) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Learning module content created by Elias Eid, Kelvin Lee 
