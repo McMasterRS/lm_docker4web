@@ -13,7 +13,7 @@ Keep in mind that there are multiple ways to setup and install Docker in your sy
 
 Before installing the Docker Engine, you will need to set up the Docker repository:  
 
-1. Update the `apt` package index and install packages that allow `apt` to use a repository over HTTPS:  
+1. In the Ubuntu's terminal window, update the `apt` package index and install packages that allow `apt` to use a repository over HTTPS:  
 
     ```bash
     apt-get update && apt-get install ca-certificates curl gnupg
