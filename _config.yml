@@ -1,6 +1,6 @@
 title: Docker Basics for Web Development # *** Enter workshop title here 
 github_repo_url: "https://mcmasterrs.github.io/lm_docker4web" # ***Enter workshop URL (in github pages) here
-gh_edit_repository: "https://github.com/McMasterRS/lm_docker4web" #*** ENTER the github URL for your repo
+gh_edit_repository: "https://github.com/McMasterRS/lm_docker4web" # *** ENTER the github URL for your repo
 
 subtitle: "Research Software Development Learning Module - Docker Basics for Web Development"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/workshop-template/main/assets/img/favicon.ico"
